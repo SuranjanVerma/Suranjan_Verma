@@ -1,4 +1,4 @@
-# Suranjan Verma
+# Suranjan Kumar Verma
 
 <!-- Animated Header -->
 <h1 align="center">
@@ -30,15 +30,14 @@
 
 ---
 
-## 💡 Inspirational Quote  
-> **“Bringing logic and magic together — with code.”** 🧠✨
+## ⭐ Fun Facts  
+- ☕ Coffee + Coding = High Productivity  
+- 💬 Always excited to learn something new every day  
 
 ---
 
-## ⭐ Fun Facts  
-- 🧩 Enjoy debugging and understanding how things work behind the scenes  
-- ☕ Coffee + Coding = High productivity  
-- 💬 Always excited to learn something new every day  
+## 💡 Inspirational Quote  
+> **“Bringing logic and magic together — with code.”** 🧠✨
 
 ---
 
