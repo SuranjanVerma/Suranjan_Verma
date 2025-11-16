@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Anshu+Priya!;MCA+Student+at+VIT+Vellore;Aspiring+Software+Developer;DSA+%7C+Competitive+Programming+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Suranjan+Kumar+Verma!;MCA+Student+at+KIIT;Aspiring+Software+Developer;DSA+%7C+Competitive+Programming+Enthusiast" />
 </h1>
 
 ---
@@ -38,12 +38,6 @@
 
 ---
 
-## 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anshu-priya-23&theme=radical" />
-</p>
-
----
 
 ## 💡 Inspirational Quote  
 > **“Bringing logic and magic together — with code.”** 🧠✨
