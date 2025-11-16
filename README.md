@@ -1,4 +1,4 @@
-# Suranjan Kumar Verma
+# Suranjan Verma
 
 <!-- Animated Header -->
 <h1 align="center">
