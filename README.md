@@ -8,11 +8,11 @@
 ---
 
 ## 👩🏻‍🎓 About Me  
-- 🎓 MCA student at **Kalinga Institue of Industrial Technology**  
-- 🌱 Currently learning **DSA** & improving **Competitive Programming**  
-- 💻 Passionate about building projects and logical problem-solving  
-- 📚 Exploring full-stack development & core CS concepts  
-- ✨ Love writing clean, efficient, and meaningful code  
+- 🎓 MCA student at **Kalinga Institute of Industrial Technology (KIIT)**  
+- 🌱 Currently learning **DSA** and sharpening **Competitive Programming** skills  
+- 💻 Passionate about building projects and solving logical problems  
+- 📚 Exploring full-stack development and core CS foundations  
+- ✨ Focused on writing clean, efficient, and meaningful code  
 
 ---
 
@@ -30,23 +30,14 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuranjanVerma&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranjanVerma&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-
 ## 💡 Inspirational Quote  
 > **“Bringing logic and magic together — with code.”** 🧠✨
 
 ---
 
 ## ⭐ Fun Facts  
-- 🧩 I like debugging and understanding how things work behind the scenes  
-- ☕ Coffee + Coding = Productivity Booster  
+- 🧩 Enjoy debugging and understanding how things work behind the scenes  
+- ☕ Coffee + Coding = High productivity  
 - 💬 Always excited to learn something new every day  
 
 ---
