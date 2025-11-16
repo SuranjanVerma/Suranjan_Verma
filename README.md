@@ -1,4 +1,4 @@
-# Suranjan_Verma
+# Suranjan Verma
 
 <!-- Animated Header -->
 <h1 align="center">
@@ -24,17 +24,9 @@
 ---
 
 ## 📬 Connect With Me  
-<a href="your-linkedin-url-here" target="_blank">
+<a href="https://www.linkedin.com/in/suranjan-verma-b33256342/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuranjanVerma&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuranjanVerma&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
