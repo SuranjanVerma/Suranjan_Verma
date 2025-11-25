@@ -1,4 +1,4 @@
-# Suranjan Verma
+# Suranjan Kumar Verma
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ## 📬 Connect With Me  
-<a href="https://www.linkedin.com//in//suranjan-verma-b33256342//" target="_blank">
+<a href="https://www.linkedin.com/in/suranjan-verma-b33256342/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
