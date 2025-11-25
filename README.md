@@ -1,10 +1,5 @@
 # Suranjan Verma
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Suranjan+Kumar+Verma!;MCA+Student+at+KIIT;Aspiring+Software+Developer;DSA+%7C+Competitive+Programming+Enthusiast" />
-</h1>
-
 ---
 
 ## 👩🏻‍🎓 About Me  
@@ -24,7 +19,7 @@
 ---
 
 ## 📬 Connect With Me  
-<a href="https://www.linkedin.com/in/suranjan-verma-b33256342/" target="_blank">
+<a href="https://www.linkedin.com//in//suranjan-verma-b33256342//" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
